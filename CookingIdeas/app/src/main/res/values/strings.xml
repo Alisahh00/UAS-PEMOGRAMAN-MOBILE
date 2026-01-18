@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Cooking Ideas</string>
+
+    <string name="splash_tagline">Cooking Ideas</string>
+    <string name="home_title">Temukan Ide Masakanmu</string>
+
+    <string name="title_nasi_goreng">Resep Nasi Goreng Spesial</string>
+    <string name="bahan_nasi_goreng">
+        Bahan Utama:\n
+        - 2 piring nasi putih (lebih enak kalau nasi dingin)\n
+        - 2 siung bawang putih, cincang halus\n
+        - 3 siung bawang merah, iris tipis\n
+        - 1 butir telur ayam\n
+        - 2 sdm kecap manis\n
+        - 1 sdm saus tiram (opsional)\n
+        - ½ sdt garam\n
+        - ½ sdt merica bubuk\n
+        - 3 sdm minyak goreng\n
+        \n
+        Topping:\n
+        - Irisan mentimun\n
+        - Tomat\n
+        - Telur ceplok\n
+        - Kerupuk
+    </string>
+    <string name="cara_masak_nasi_goreng">
+        Langkah Memasak:\n
+        1. Panaskan minyak di wajan dengan api sedang.\n
+        2. Masukkan bawang merah dan bawang putih, tumis hingga harum.\n
+        3. Sisihkan bumbu di pinggir wajan. Masukkan telur, orak-arik hingga matang.\n
+        4. Masukkan nasi putih, aduk rata dengan bumbu dan telur.\n
+        5. Tambahkan kecap manis, saus tiram, garam, dan merica. Aduk cepat hingga warna nasi merata dan semua bumbu tercampur sempurna.\n
+        6. Koreksi rasa. Angkat dan sajikan nasi goreng di piring.\n
+        7. Tata topping di atasnya atau di samping piring.
+    </string>
+
+    <string name="title_ayam_goreng">Resep Ayam Goreng Lengkuas</string>
+    <string name="bahan_ayam_goreng">
+        Bahan Utama:\n
+        - 1 kg ayam potong (8-10 bagian)\n
+        - 1 ruas lengkuas besar (sekitar 15 cm), parut kasar\n
+        - 3 lembar daun salam\n
+        - 2 batang serai, memarkan\n
+        - 500 ml air kelapa/air biasa\n
+        \n
+        Bumbu Halus:\n
+        - 8 siung bawang merah\n
+        - 5 siung bawang putih\n
+        - 1 sdm ketumbar bubuk\n
+        - 1 ruas kunyit\n
+        - 1 ruas jahe\n
+        - Garam dan gula secukupnya
+    </string>
+    <string name="cara_masak_ayam_goreng">
+        Langkah Memasak:\n
+        1. Campur ayam, bumbu halus, lengkuas parut, daun salam, serai, dan air kelapa dalam panci.\n
+        2. Ungkep (rebus) dengan api sedang hingga air menyusut habis dan bumbu meresap sempurna ke dalam ayam. Angkat ayam.\n
+        3. Pisahkan sisa bumbu lengkuas (serundeng) dari ayam.\n
+        4. Panaskan minyak dalam jumlah banyak untuk menggoreng.\n
+        5. Goreng ayam hingga berwarna kuning kecoklatan. Angkat dan tiriskan.\n
+        6. Goreng sisa bumbu (serundeng lengkuas) hingga kering dan renyah. Angkat cepat agar tidak gosong.\n
+        7. Sajikan ayam goreng bersama serundeng lengkuas.
+    </string>
+
+</resources>
